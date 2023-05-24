@@ -1,2 +1,2 @@
-# Omar
-repository for my projects
+# Omar Al Sayyad
+repository for my projects \\
